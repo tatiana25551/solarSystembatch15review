@@ -9,7 +9,7 @@ solar.planets="2";
 sun fero=new sun();
 fero.heat="34687562157";
 fero.color="red";
-fero.temperature=3452;
+fero.temperature="3452;"
 
 
 
